@@ -1,4 +1,3 @@
-## Mi Portafolio
 <img width="900" height="220" src="https://www.developersforhire.com/pic/2IJba-a39-canonical/the-15-best-outsourcing-software-development-companies.jpg"></img>
 
 ### Hola a todos !! 👋
