@@ -2,8 +2,8 @@
 
 ### Hola a todos !! 👋
 <hr>
-<p>Soy Federico Calderón, tengo 20 años, apasionado por la ciencia y la tecnología 😄😄. <p/>
- Soy Full Stack Web Developer 🎓 egresado de <a href="https://www.soyhenry.com">www.soyhenry.com</a> y estudiante de Ingeniería Informátcia, estoy interesado en el mundo del desarrollo de software y también por el aprendizaje constante de nuevas tecnologías.
+<p>Soy Federico Calderón, tengo 21 años, apasionado por la ciencia y la tecnología 😄😄. <p/>
+ Soy Full Stack Web Developer 🎓 egresado de <a href="https://www.soyhenry.com">www.soyhenry.com</a>, estoy interesado en el mundo del desarrollo de software y también por el aprendizaje constante de nuevas tecnologías.
 </p>
 
 > Estoy tomando cursos sobre nuevos lenguajes de programación 💻 
@@ -13,10 +13,7 @@
 <p>
     <a href="https://www.linkedin.com/in/federico-calderón-8146a71b0/" rel="nofollow">
         <img alt="Linkedin" src="https://camo.githubusercontent.com/29b6db84167eaa3dadd80edbe9f31a6df96063587bd3b145cb81f3c622ea63b6/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f622f62652f4c696e6b6564496e5f6c6f676f5f496e2d426c61636b2e7376672f3130323470782d4c696e6b6564496e5f6c6f676f5f496e2d426c61636b2e7376672e706e67" height="22" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/LinkedIn_logo_In-Black.svg/1024px-LinkedIn_logo_In-Black.svg.png" style="max-width:100%;">
-    </a>
-    <a href="https://wa.link/5bk3ho" rel="nofollow">
-        <img alt="Whats-app" src="https://camo.githubusercontent.com/ec2ceb1373032907ca9d69b93f07546aac365648c7c70b4ab6c2e86c3913d9f5/68747470733a2f2f303230312e6e6363646e2e6e65742f345f322f3030302f3030302f3034382f3061362f42575f57686174736170705f325f676c7970685f7376672d3531322e706e67" height="22" data-canonical-src="https://0201.nccdn.net/4_2/000/000/048/0a6/BW_Whatsapp_2_glyph_svg-512.png" style="max-width:100%;">
-    </a>
+    </a> 
 </p>
 
 #### Idiomas
