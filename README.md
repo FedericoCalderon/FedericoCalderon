@@ -2,13 +2,13 @@
 
 ### Hola a todos !! 👋
 <hr>
-<p>Soy Federico Calderón, tengo 21 años, apasionado por la ciencia y la tecnología 😄😄. <p/>
+<p>Soy Federico Calderón, tengo 22 años, apasionado por la programación y la tecnología 😄😄. <p/>
  Soy Full Stack Web Developer 🎓 egresado de <a href="https://www.soyhenry.com">www.soyhenry.com</a>, estoy interesado en el mundo del desarrollo de software y también por el aprendizaje constante de nuevas tecnologías.
 </p>
 
 > Estoy tomando cursos sobre nuevos lenguajes de programación 💻 
 
-> Juego videojuegos, hago ejercicio y estoy aprendiendo ingles avanzado 🎮 💪
+> Juego videojuegos, hago ejercicio y estoy aprendiendo ingles 🎮 💪
 #### Contáctame:
 <p>
     <a href="https://www.linkedin.com/in/federico-calderón-8146a71b0/" rel="nofollow">
