@@ -1,4 +1,4 @@
-<img width="900" height="220" src="https://www.developersforhire.com/pic/2IJba-a39-canonical/the-15-best-outsourcing-software-development-companies.jpg"></img>
+<img width="900" height="220" src="https://media-exp1.licdn.com/dms/image/C4E16AQHhJXKnUpB7pw/profile-displaybackgroundimage-shrink_350_1400/0/1603233387084?e=1674691200&v=beta&t=kH-xMlcl912oj5lqlMmX-Hxr__y3LxCm0WT1tzLtrJk"></img>
 
 ### Hola a todos !! 👋
 <hr>
