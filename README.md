@@ -20,9 +20,10 @@
 
 #### Idiomas
 <div style="display: flex; flex-direction: column; justify-content: center;">
-    <p style="display: flex; flex-direction: row; align-items: center;"> <img alt="ES" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Spain_%28Civil%29.svg/1200px-Flag_of_Spain_%28Civil%29.svg.png" height="22" width="22"> Nativo
+    <p style="display: flex; flex-direction: row; align-items: center;"> 
+    <img alt="ES" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Spain_%28Civil%29.svg/1200px-Flag_of_Spain_%28Civil%29.svg.png" height="22" width="22"> <span>Nativo</span>
     </p>
-    <p style="display: flex; flex-direction: row; align-items: center;"> <img src="https://camo.githubusercontent.com/1e71db79954d93a6156efdb3f40269cab34b4a12450a5ca15c0ee3dd4904613e/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3234302f747769747465722f3235392f666c61672d756e697465642d6b696e67646f6d5f31663165632d31663165372e706e67" alt="UK" height="22" width="22"> Intermedio
+    <p style="display: flex; flex-direction: row; align-items: center;"> <img src="https://camo.githubusercontent.com/1e71db79954d93a6156efdb3f40269cab34b4a12450a5ca15c0ee3dd4904613e/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3234302f747769747465722f3235392f666c61672d756e697465642d6b696e67646f6d5f31663165632d31663165372e706e67" alt="UK" height="22" width="22"><span>Intermedio</span>
     </p>
 </div>
 
