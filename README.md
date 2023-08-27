@@ -30,7 +30,8 @@
     <div style="display: flex; flex-direction: row; align-items: center;"> 
     <img alt="ES" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Spain_%28Civil%29.svg/1200px-Flag_of_Spain_%28Civil%29.svg.png" height="22" width="22"> <span>Nativo</span>
     </div>
-    <div style="display: flex; flex-direction: row; align-items: center;"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_the_United_States_%281795-1818%29.jpg" alt="US" height="22" width="22"><span>Intermedio</span>
+    <div style="display: flex; flex-direction: row; align-items: center;"> 
+     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_the_United_States_%281795-1818%29.jpg" alt="US" height="22" width="22"> <span> Intermedio</span>
     </div>
 </div>
 
