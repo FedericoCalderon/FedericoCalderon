@@ -2,18 +2,9 @@
 
 ### Hola a todos !! 👋
 <hr>
-<p>Soy Federico Calderón, tengo 23 años, de Mendoza, Argentina <p/>
- Soy Angular Developer, tengo 3 años de experiencia en el sector.
- 
- Estoy capacitado para alcanzar los siguientes objetivos:
-  Concepción de un diseño sobrio, estético y de gran intuición.
-  Creación de un funcionamiento escalable rigurosamente concebido.
-  Obtención de un rendimiento excepcional que sobresalga.
-  
- Me motiva ampliar mi dominio en conocimientos técnicos con el propósito de llevar a cabo su aplicación con maestría.
- También estoy aprendiendo inglés.
+<p>Soy Federico Calderón, desarrollador fullstack altamente motivado con más de 3 años de experiencia en la creación de aplicaciones web y sistemas complejos. Experto en tecnologías front-end y back-end, con un historial probado de entrega de proyectos de alta calidad. Apasionado por mantenerse al día con las últimas tendencias tecnológicas y comprometido con la mejora continua.
 </p>
-
+> Estoy aprendiendo inglés.
 > En mis tiempos libres juego videojuegos y hago algo de ejercicio. 🎮 💪
 
 #### Contáctame:
